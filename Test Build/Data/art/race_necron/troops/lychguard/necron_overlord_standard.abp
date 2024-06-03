@@ -1,0 +1,13 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+	"..\\..\\TROOPS_WARGEAR\\ARMOUR\\Necron_Overlord_Common\\Necron_Overlord_Common\\",
+	"..\\..\\TROOPS_WARGEAR\\WEAPONS_MELEE\\Warscythe_Scythe\\Warscythe_Scythe\\",
+	"..\\..\\TROOPS_WARGEAR\\ACCESSORIES\\NECRON_OVERLORD_SHOULDER_ARMOUR_01\\NECRON_OVERLORD_SHOULDER_ARMOUR_01\\",
+	"..\\..\\TROOPS_WARGEAR\\ACCESSORIES\\NECRON_OVERLORD_HEADDRESS_01\\NECRON_OVERLORD_HEADDRESS_01\\",
+    "Necron_Overlord",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

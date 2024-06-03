@@ -1,0 +1,19 @@
+HeaderInfo =  
+{
+	scenarioname = "(2p) Testing Grounds",
+	scenariodescription = "",
+	maxplayers = 8,
+	date = "5/6/2024 1:54 PM",
+	scenarioabbrname = "",
+	crc = 0,
+	modname = "DOW2",
+	mapsize =  
+	{
+		256,
+		256,
+	},
+	music = "",
+	liveid = 0,
+	version = 2003,
+}
+

@@ -1,0 +1,19 @@
+HeaderInfo =  
+{
+	scenarioname = "(2p) Calderis Jungle",
+	scenariodescription = "",
+	maxplayers = 2,
+	date = "5/22/2024 5:20 PM",
+	scenarioabbrname = "",
+	crc = 0,
+	modname = "DOW2",
+	mapsize =  
+	{
+		256,
+		256,
+	},
+	music = "",
+	liveid = 0,
+	version = 2003,
+}
+

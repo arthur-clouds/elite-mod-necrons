@@ -1,0 +1,48 @@
+tileLayers =  
+{
+	version = 1,
+	layers =  
+	{
+		 
+		{
+			ground = "snow/snow_smooth_01",
+			cliff = "stone/selenon_upheaval_01",
+		},
+		 
+		{
+			ground = "metal/ice_metal_panels_01",
+			cliff = "metal/ice_metal_wall_torn_02",
+		},
+		 
+		{
+			ground = "dirt/grassdirt_01",
+			cliff = "dirt/grassdirt_01",
+		},
+		 
+		{
+			ground = "snow/snowy_jagged_01",
+			cliff = "snow/high_ice_cliff_02",
+		},
+		 
+		{
+			ground = "snow/slush_snow_01",
+			cliff = "snow/ice_cliff_01",
+		},
+		 
+		{
+			ground = "snow/slushy_snow_01",
+			cliff = "snow/ice_cliff_01",
+		},
+		 
+		{
+			ground = "snow/snow_stone_01",
+			cliff = "snow/high_ice_cliff_02",
+		},
+		 
+		{
+			ground = "dirt/mud_wet_02",
+			cliff = "dirt/mud_dry_01",
+		},
+	},
+}
+

@@ -1,0 +1,19 @@
+HeaderInfo =  
+{
+	scenarioname = "(2p) Lugganath Glacier",
+	scenariodescription = "",
+	maxplayers = 2,
+	date = "5/7/2024 5:45 PM",
+	scenarioabbrname = "",
+	crc = 0,
+	modname = "DOW2",
+	mapsize =  
+	{
+		256,
+		256,
+	},
+	music = "",
+	liveid = 0,
+	version = 2003,
+}
+
