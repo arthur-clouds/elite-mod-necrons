@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Necron_Overlord_Shoulder_Amour_01",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

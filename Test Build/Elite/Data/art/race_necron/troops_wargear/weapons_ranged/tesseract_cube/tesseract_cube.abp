@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Tesseract_Cube",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Warscythe_Scythe",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Staff_Of_Light_Variation",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

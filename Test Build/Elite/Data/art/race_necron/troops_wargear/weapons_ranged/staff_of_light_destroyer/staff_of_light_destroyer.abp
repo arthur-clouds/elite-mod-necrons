@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Staff_Of_Light_Destroyer",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

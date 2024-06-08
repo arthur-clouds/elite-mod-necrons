@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Necron_Overlord_Common",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}
